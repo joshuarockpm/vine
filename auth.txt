@@ -1,12 +1,5 @@
 Joshuatest,joshuatest@email.com,Joshuatest,TESTMACHINECODE
-test1,test1@gmail.com,test1234,3CA68B74623C0C94
-test2,test2@gmail.com,test1234,DC7BCC3EB63F372F
-test2,test2@gmail.com,test1234,B8AFC8726318A264
-test0,test0@gmailcom,test1234,6296025F573C45A0
-test1,test1@gmail.com,test1234,6296025F573C45A0
-test2,test2@gmail.ocm,test1234,9FAF07430BC94BFD
-test1,test,1234,70C9FC096B9B03C5
-test1,test1@gmail.com,test1234,0597068137A55BA2
+
 test1,test1@gmail.com,test1234,0597068137A55BA2
 
 
