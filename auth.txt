@@ -1,5 +1,7 @@
 Joshuatest,joshuatest@email.com,Joshuatest,TESTMACHINECODE
 test1,test1@gmail.com,test1234,0597068137A55BA2
+test0,test0@gmail.com,1234,0597068137A55BA2
+
 
 
 
