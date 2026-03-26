@@ -12,5 +12,7 @@ Jack,pandorahu4@gmail.com,rsvine!!,2BFF322C03F702F1
 jayde,jaydecharlize@gmail.com,jayde153,9990C3F56B9BEB25
 Shamus,gjxwork@gmail.com,baomihua,14D857EF9D48B7FD
 raylei,raydccmi@gmail.com,131415,DAC2433DEEA9D638
-
+Jason,jasonzhang201712@gmail.com,zhangsen1988,54614F23BC8A443E
+JosephC,holyplace153@gmail.com,112508,AD25A8CE4187B03E
+DoverVine,dvkevin1m@gmail.com,DoverVine153,C15B2F3DB8490CA0
 
