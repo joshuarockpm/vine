@@ -20,7 +20,6 @@ wade,wadekohelite@gmail.com,qianbei123!,90F31998454CE29E
 Jason,jasonzhang201712@gmail.com,zhangsen1988,54614F23BC8A443E
 tony,tony@infinalab.com,ShipEX13!,DC8DFF5C5B91F367
 OliverZ,oliver.c4252@gmail.com,q1w2e3AA,1F18445715C862CE
-sunshine,gsunshine0814@gmail.com,sunshine,CACE0B0E0C387DCD
 Henry,bmwork6@gmail.com,123456,9E6BE9891E79B895
 joshua,hlcmipl8@gmail.com,yz192526,A28BBC9C0FB9D250
 shuaimoses,shuaimoses@gmail.com,shuai8884,00B078A7B2F856FE
