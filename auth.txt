@@ -48,3 +48,4 @@ Henry,bmwork6@gmail.com,123456,D7E9A8D959BE0894
 sunshine01,yangguangjob2025@gmail.com,sunshine01,CACE0B0E0C387DCD
 02sunshine,gsunshine0814@gmail.com,02sunshine,29C534465C85EEF6
 dvvine01,bingyang113@gmail.com,Dvvine01!,D958EF7211055ED1
+yue,kbsf@gmail.com,123456,8801C698171D8382
